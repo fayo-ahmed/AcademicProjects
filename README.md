@@ -1,6 +1,6 @@
 # Projects
 
-This repository contains two projects:
+This repository contains the following projects:
 1. Loan Application Portal
 2. Pig Game with Process Scheduling Algorithms
 3. Inventory Management System
